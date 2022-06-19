@@ -44,8 +44,6 @@ struct LandmarkDetail: View {
                     .font(.footnote)
             }
             .padding()
-            
-//            Spacer()
         }
         .navigationTitle(landmark.name)
         .navigationBarTitleDisplayMode(.inline)
